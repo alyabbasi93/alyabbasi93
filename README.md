@@ -17,7 +17,7 @@
 - **Languages:** Python, Java, Dart
 - **Frameworks/Tools:** TensorFlow, Keras, Flutter
 - **Projects Highlight:**
-  - **Dogout** - A comprehensive app for pet services, developed with Flutter for both Android and iOS.
+  - **Dogout** - A comprehensive app to find place where you go with your dogs, developed with Flutter for both Android and iOS.
   - **Amnen** - Streamlines luggage and delivery processes through a robust mobile app, built with Flutter.
   - **Travel Booking Affiliate App** - Facilitates ticket purchases via an affiliate system, crafted for Android and iOS using Flutter.
   - **AI Skin Cancer Detection** - Pioneering an algorithm for early detection of skin cancer, planning for mobile integration.
