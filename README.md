@@ -1,26 +1,31 @@
-### Hi there, I'm Muhammad Ali Abbasi 👋
+<h3 align="center">👋 Hi there, I'm Muhammad Ali Abbasi!</h3>
 
-#### 🌱 About Me
-- 🎓 Master's degree in Artificial Intelligence and Data Science.
-- 💼 Freelance developer with over 220 projects on Fiverr, specializing in Android and Flutter mobile app development.
-- 🚀 Passionate about creating health-related mobile apps using Machine Learning and AI.
+<p align="center">
+  <a href="https://www.linkedin.com/in/alyabbasi93/">LinkedIn</a> •
+  <a href="https://www.fiverr.com/alyabbasi">Fiverr</a> •
+  <a href="mailto:alyabbasi93@icloud.com">Email</a>
+</p>
 
-#### 🛠️ Technical Skills
-- 💻 **Languages:** Python, Java, Dart (Flutter)
-- 📱 **Frameworks/Tools:** TensorFlow, Keras, Flutter
-- 📱 **Projects:**
-  - **Dogout:** A Flutter app for Android and iOS focusing on services for pet owners, currently in development.
-  - **Amnen:** A delivery and luggage transfer app developed using Flutter for Android and iOS.
-  - **Travel Booking Affiliate App:** Enables users to buy tickets through an affiliate system, developed using Flutter.
-  - **Skin Cancer Detection Algorithm:** An AI-based algorithm to detect skin cancer, aiming to be developed into a mobile app.
+---
 
-#### 📬 Contact Me
-- 📧 Email: [alyabbasi93@icloud.com](mailto:alyabbasi93@icloud.com)
-- 🔗 LinkedIn: [alyabbasi93](https://www.linkedin.com/in/alyabbasi93/)
-- 🚀 Fiverr: [alyabbasi](https://www.fiverr.com/alyabbasi)
+### 🌱 About Me
+- 🎓 **Education:** Master's degree in **Artificial Intelligence and Data Science**.
+- 💼 **Freelancer:** Over 220 projects completed on Fiverr, specializing in mobile applications using **Android** and **Flutter**.
+- 🚀 **Current Work:** Developing health-related apps with a focus on **Machine Learning** and **AI**.
 
-#### 📝 Additional Interests
-- 🎮 I love playing video games.
-- 📜 Blogging about my Fiverr gigs and projects on my personal site.
+### 🛠️ Technical Skills
+- **Languages:** Python, Java, Dart
+- **Frameworks/Tools:** TensorFlow, Keras, Flutter
+- **Projects Highlight:**
+  - **Dogout** - A comprehensive app for pet services, developed with Flutter for both Android and iOS.
+  - **Amnen** - Streamlines luggage and delivery processes through a robust mobile app, built with Flutter.
+  - **Travel Booking Affiliate App** - Facilitates ticket purchases via an affiliate system, crafted for Android and iOS using Flutter.
+  - **AI Skin Cancer Detection** - Pioneering an algorithm for early detection of skin cancer, planning for mobile integration.
 
-![Alyabbasi93's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyabbasi93&show_icons=true)
+### 🎮 Additional Interests
+- Passionate about video gaming.
+- I blog about my Fiverr gigs and project experiences, sharing insights and developments.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alyabbasi93&show_icons=true&theme=tokyonight" alt="Alyabbasi93's GitHub Stats">
+</div>
